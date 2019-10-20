@@ -58,7 +58,6 @@ protobuf==3.10.0
 pusher==2.1.4
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
-PyAudio==0.2.11
 pycparser==2.19
 PyInstaller==3.5
 pyjsparser==2.7.1
@@ -81,7 +80,6 @@ six==1.12.0
 sklearn==0.0
 soupsieve==1.9.4
 spacy==2.1.8
-SpeechRecognition==3.8.1
 SQLAlchemy==1.2.19
 srsly==0.1.0
 tensorboard==2.0.0
