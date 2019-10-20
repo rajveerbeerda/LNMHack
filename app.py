@@ -39,7 +39,6 @@ def switch():
     cust_user_id = variable.cut_uid
     cust_records = variable.records
     cust_order_id = variable.order_id
-    print(cust_records)
     return render_template('switch.html', cust_phone=cust_phone, cust_name=cust_name, cust_user_id=cust_user_id, cust_records=cust_records, cust_order_id=cust_order_id)
 
 # @app.route('/voice')
