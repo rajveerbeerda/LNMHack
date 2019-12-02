@@ -19,7 +19,7 @@ os.environ["OMDB_API_KEY"]="OMDB_API_KEY"
 pusher_client = pusher.Pusher(
   app_id='PUSHER_APP_ID',
   key='KEY',
-  secret='d523fd2e82c4d8cf22d4',
+  secret="PUSHER_SECRET_KEY",
   cluster='ap2',
   ssl=True
 )
